@@ -1,4 +1,4 @@
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-CYBAR.MAHAT-dimgray?style=flat-square&logo=github)](https://github.com/CYBAR-MAHAT-404)<br> [![Facebook](https://img.shields.io/badge/Facebook-FARHAN-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100069433521473)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-FARHAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801952189907)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-CYBAR.MAHAT-dimgray?style=flat-square&logo=github)](https://github.com/CYBAR-MAHAT-404)<br> [![Facebook](https://img.shields.io/badge/Facebook-MAHAT-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100069433521473)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-MAHAT-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801952189907)
 
 
 
@@ -17,15 +17,15 @@
 - `pkg install python`
 - `pip install requests`
 - `pip install mechanize`
-- `rm -rf GREEN`
-- `git clone https://github.com/BLAZE-143/GREEN.git`
-- `cd GREEN`
-- `python GREEN.py`
+- `rm -rf XUDI`
+- `git clone https://github.com/CYBAR-143/XUDI.git`
+- `cd XUDI`
+- `python XUDI.py`
      
  🖤_RUN SHORT COMMANDS_🖤
-- `cd GREEN`
+- `cd XUDI`
 - `git pull`
-- `python GREEN.py`
+- `python XUDI.py`
 
  ```Note : This Tools Is Free File X Random Clone  Tools ```</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-MAHAT-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801952189907)
