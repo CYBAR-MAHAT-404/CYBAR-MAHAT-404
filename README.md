@@ -18,14 +18,14 @@
 - `pip install requests`
 - `pip install mechanize`
 - `rm -rf XUDI`
-- `git clone https://github.com/CYBAR-143/XUDI.git`
-- `cd XUDI`
-- `python XUDI.py`
+- git clone https://github.com/CYBAR-MAHAT-404/CYBAR-MAHAT-404.git`
+- `cd CYBAR-MAHAT-404`
+- `python sex.py`
      
  🖤_RUN SHORT COMMANDS_🖤
-- `cd XUDI`
+- `cd cd CYBAR-MAHAT-404`
 - `git pull`
-- `python XUDI.py`
+- `python sex.py`
 
  ```Note : This Tools Is Free File X Random Clone  Tools ```</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-MAHAT-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801952189907)
