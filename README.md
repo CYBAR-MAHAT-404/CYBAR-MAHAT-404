@@ -18,7 +18,7 @@
 - `pip install requests`
 - `pip install mechanize`
 - `rm -rf XUDI`
-- git clone https://github.com/CYBAR-MAHAT-404/CYBAR-MAHAT-404.git`
+- `git clone https://github.com/CYBAR-MAHAT-404/CYBAR-MAHAT-404.git`
 - `cd CYBAR-MAHAT-404`
 - `python sex.py`
      
